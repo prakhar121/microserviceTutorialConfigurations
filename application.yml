@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: DefaultService
-
 eureka:
   client:
     fetch-registry: true
